@@ -44,7 +44,7 @@ Link: https://scopenft.xyz
 
 5️⃣ ORCA: One of the best DEX on Eclipse.
 
-Dex link: https://www.orca.so
+Dex link:https://www.orca.so/?chainId=eclipse
 
 6️⃣ Astrol Protocol: First Native Lending Protocol On Eclipse
 
